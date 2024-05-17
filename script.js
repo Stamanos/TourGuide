@@ -4,5 +4,5 @@ document.getElementById('userForm').addEventListener('submit', function(event) {
     const firstName = document.getElementById('firstName').value;
     const lastName = document.getElementById('lastName').value;
 
-    alert(`Καλημέρα ${firstName}, είσαι έτοιμη να φάς πούτσο;`);
+    alert(`Καλημέρα ${firstName}, είσαι έτοιμη να κάνουμε έρωτα;`);
 });
